@@ -19,10 +19,11 @@ const config: Config = {
     favicon: 'img/favicon.ico',
 
     url: 'https://nguyennhatquang522004.github.io',
-    baseUrl: '/UIP-Urban_Intelligence_Platform/',
+    baseUrl: '/tes/',
 
     organizationName: 'NguyenNhatquang522004',
-    projectName: 'UIP-Urban_Intelligence_Platform',
+    projectName: 'tes',
+    trailingSlash: false,
 
     onBrokenLinks: 'warn',
     onBrokenMarkdownLinks: 'warn',
