@@ -1,0 +1,32 @@
+/**
+ * SPDX-License-Identifier: MIT
+ * Copyright (c) 2025 UIP Team. All rights reserved.
+ *
+ * UIP - Urban Intelligence Platform
+ * https://github.com/NguyenNhatquang522004/UIP-Urban_Intelligence_Platform
+ *
+ * @file index.module.css
+ * @module apps/traffic-web-app/frontend/docs/src/pages/index.module.css
+ * @description CSS Module for the main index page
+ * @author UIP Team
+ * @version 2.0.0
+ */
+
+.heroBanner {
+  padding: 4rem 0;
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+}
+
+@media screen and (max-width: 996px) {
+  .heroBanner {
+    padding: 2rem;
+  }
+}
+
+.buttons {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

@@ -1,0 +1,72 @@
+{
+    "name": "uip-urban-intelligence-platform-docs",
+    "version": "2.0.0",
+    "description": "Documentation for UIP - Urban Intelligence Platform",
+    "private": true,
+    "author": {
+        "name": "UIP Contributors",
+        "url": "https://github.com/NguyenNhatquang522004/UIP-Urban_Intelligence_Platform"
+    },
+    "contributors": [
+        {
+            "name": "Nguyễn Nhật Quang",
+            "email": "nguyennhatquang522004@gmail.com",
+            "url": "https://github.com/NguyenNhatquang522004"
+        },
+        {
+            "name": "Nguyễn Việt Hoàng",
+            "email": "viethoang01062004nt@gmail.com",
+            "url": "https://github.com/JamesNguyen106"
+        },
+        {
+            "name": "Nguyễn Đình Anh Tuấn",
+            "email": "nguyentuan834897@gmail.com",
+            "url": "https://github.com/NguyenDinhAnhTuan04"
+        }
+    ],
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/NguyenNhatquang522004/UIP-Urban_Intelligence_Platform.git"
+    },
+    "scripts": {
+        "docusaurus": "docusaurus",
+        "start": "docusaurus start",
+        "build": "docusaurus build",
+        "swizzle": "docusaurus swizzle",
+        "deploy": "docusaurus deploy",
+        "clear": "docusaurus clear",
+        "serve": "docusaurus serve",
+        "write-translations": "docusaurus write-translations",
+        "write-heading-ids": "docusaurus write-heading-ids"
+    },
+    "dependencies": {
+        "@docusaurus/core": "^3.0.0",
+        "@docusaurus/preset-classic": "^3.0.0",
+        "@mdx-js/react": "^3.0.0",
+        "clsx": "^2.0.0",
+        "prism-react-renderer": "^2.1.0",
+        "react": "^18.2.0",
+        "react-dom": "^18.2.0"
+    },
+    "devDependencies": {
+        "@docusaurus/module-type-aliases": "^3.0.0",
+        "@docusaurus/types": "^3.0.0",
+        "typescript": "~5.2.0"
+    },
+    "browserslist": {
+        "production": [
+            ">0.5%",
+            "not dead",
+            "not op_mini all"
+        ],
+        "development": [
+            "last 1 chrome version",
+            "last 1 firefox version",
+            "last 1 safari version"
+        ]
+    },
+    "engines": {
+        "node": ">=18.0"
+    }
+}

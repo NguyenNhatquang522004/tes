@@ -1,0 +1,41 @@
+# SPDX-License-Identifier: MIT
+# Copyright (c) 2025 UIP Team. All rights reserved.
+#
+# UIP - Urban Intelligence Platform
+# https://github.com/NguyenNhatquang522004/UIP-Urban_Intelligence_Platform
+#
+# Module: apps/traffic-web-app/frontend/docs/blog/authors.yml
+# Author: UIP Team
+# Version: 1.0.0
+#
+# Description: Blog Authors Configuration for Docusaurus
+
+nguyennhatquang:
+  name: Nguyễn Nhật Quang
+  title: Lead Developer & System Architect
+  url: https://github.com/NguyenNhatquang522004
+  image_url: https://github.com/NguyenNhatquang522004.png
+  page: true
+  socials:
+    github: NguyenNhatquang522004
+    email: nguyennhatquang522004@gmail.com
+
+nguyenviethoang:
+  name: Nguyễn Việt Hoàng
+  title: Full-Stack Developer
+  url: https://github.com/JamesNguyen106
+  image_url: https://github.com/JamesNguyen106.png
+  page: true
+  socials:
+    github: JamesNguyen106
+    email: viethoang01062004nt@gmail.com
+
+nguyendinhanhtuan:
+  name: Nguyễn Đình Anh Tuấn
+  title: Backend Developer
+  url: https://github.com/NguyenDinhAnhTuan04
+  image_url: https://github.com/NguyenDinhAnhTuan04.png
+  page: true
+  socials:
+    github: NguyenDinhAnhTuan04
+    email: nguyentuan834897@gmail.com
