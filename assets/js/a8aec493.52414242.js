@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkuip_urban_intelligence_platform_docs=globalThis.webpackChunkuip_urban_intelligence_platform_docs||[]).push([[355],{8386:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/tes/blog","page":1,"postsPerPage":10,"totalPages":2,"totalCount":11,"nextPage":"/tes/blog/page/2","blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

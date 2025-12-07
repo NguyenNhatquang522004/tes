@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkuip_urban_intelligence_platform_docs=globalThis.webpackChunkuip_urban_intelligence_platform_docs||[]).push([[1903],{1912:l=>{l.exports=JSON.parse('{"blogBasePath":"/tes/vi/blog","blogTitle":"Blog","authorsListPath":"/tes/vi/blog/authors"}')}}]);
